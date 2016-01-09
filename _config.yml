@@ -1,0 +1,28 @@
+name: Buddhism in the West
+favicon: null
+layout_spectrum: 0.3446182769257575
+typography_spectrum: 0.9593516734894365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.30933274631388485
+  lightness: 0.5846342965960503
+  saturation: 0.9433370288461447
+  rhythmicContrast: 0.6112070390954614
+purpose: []
